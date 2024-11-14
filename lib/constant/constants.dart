@@ -1,0 +1,13 @@
+String mapBoxApiKey =
+    'pk.eyJ1Ijoic2F1cmFiaG13IiwiYSI6ImNreTRiYzNidjBhMTkydnB2dmpoeGt4ZmgifQ.2QZ4CsNiygDTAhkqASpbPg';
+
+String ipfsGateway ="ipfs.io";
+   // "cloudflare-ipfs.com"; //"nftstorage.link"; // "aquamarine-important-possum-597.mypinata.cloud"
+
+String nftStorageApiKey =
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiIzOWY3YmFmMC1lNjhhLTRlN2QtYmMyNS1lNWM4NDViYTFiNTIiLCJlbWFpbCI6InNtd2FnaG1hcmUyMDE2QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJwaW5fcG9saWN5Ijp7InJlZ2lvbnMiOlt7ImlkIjoiRlJBMSIsImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxfSx7ImlkIjoiTllDMSIsImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxfV0sInZlcnNpb24iOjF9LCJtZmFfZW5hYmxlZCI6ZmFsc2UsInN0YXR1cyI6IkFDVElWRSJ9LCJhdXRoZW50aWNhdGlvblR5cGUiOiJzY29wZWRLZXkiLCJzY29wZWRLZXlLZXkiOiJmMGEwNjczZmVjZmZmZWM4OTdjOCIsInNjb3BlZEtleVNlY3JldCI6IjZlNzFmNGI1MjY0ZWY5NDQ4ZWYzNWFkMzM2MzE3NjkwOGI2ZjY4MWFjN2IwMzlmZGFiMDA1MTMxYWJmMzAzY2MiLCJpYXQiOjE3MTQ1NTk3NDF9.qwp6TP7ZL2VrUerYGlsZy-n7JKJdKQfzFMXIU5Sn32w";
+const String rpcUrl = "http://127.0.0.1:7545";
+
+const String contractAddress = "0x34CADCbE5aFe4274114754B0E6Fb736398dac397"; //
+
+const int chainId = 1337; // local ganache-1337
