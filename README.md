@@ -18,10 +18,7 @@
 6. Metamask
 
 
-## Run Application on deployed website
-Check out the deployed website [here](https://landregistry.live/)
 
-https://landregistry.live/
 
 This is for demonstration purposes only. With this key, you can log in as Land Inspector:
  <pre><b>6b86cddfedbec68ed2a1c7e14b993840a0848595ba5787aec9e8a38b18f0d96a</b></pre>
